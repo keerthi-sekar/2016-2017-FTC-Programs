@@ -1,7 +1,7 @@
 # 2016-2017-FTC-Programs
 Autonomous and Tele-op programs I created for Velocity Vortex Robotics Season. These programs won the Control Award for unique strategies to approach the problem
 
-# Autonomous Programs:
+# Programs List:
 Offensive Programs:
 * With a timer (5 sec delay) - detects correct color for 2 beacons, shoots 2 balls, and park on ramp
  * auto_blue_diagonal_with_WAIT.java
